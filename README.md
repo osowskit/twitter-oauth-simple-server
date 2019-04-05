@@ -10,4 +10,4 @@ Simple web server to obtain an Twitter 3-legged OAuth access token.
 
 Your token will be printed to the console.
 
-Inspired by [this blog](https://code.tutsplus.com/tutorials/twitter-sign-in-for-rails-application--cms-28097) using Omni-Auth
+Inspired by [this blog](https://code.tutsplus.com/tutorials/twitter-sign-in-for-rails-application--cms-28097) using [Omni-Auth](https://github.com/omniauth/omniauth) and a [readme](https://github.com/oauth-xx/oauth-ruby/blob/master/README.rdoc) for a Ruby [OAuth](https://github.com/oauth-xx/oauth-ruby) Gem
